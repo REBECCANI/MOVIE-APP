@@ -52,4 +52,4 @@ README.md
 
 👩🏾‍💻 Author
 
-Nishimwe Rebecca
+Rebecca Nishimwe 
